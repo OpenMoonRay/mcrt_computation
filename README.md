@@ -3,4 +3,3 @@ Policies concerning [Governance](https://github.com/OpenMoonRay/openmoonray/blob
 
 This repository contains the mcrt computation component for Arras.
 
-
